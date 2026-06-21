@@ -3,18 +3,13 @@ Hi, I’m a Frontend Web Developer specializing in building modern, responsive, 
 
 I focus on writing clean code, building reusable components, and creating smooth UI/UX experiences. I’m passionate about learning new technologies and continuously improving my development skills.
 
- Tech Stack:
-React.js
-JavaScript (ES6+)
-Tailwind CSS
-Firebase
-HTML & CSS
-Framer Motion
+
 
  What I Do:
-Build modern web apps & dashboards
-Create responsive UI/UX designs
-Integrate Firebase backend services
+ 
+Build modern web apps & dashboards,
+Create responsive UI/UX designs,
+Integrate Firebase backend services, and
 Develop e-commerce & portfolio projects
 
 
